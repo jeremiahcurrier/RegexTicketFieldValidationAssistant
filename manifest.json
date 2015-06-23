@@ -1,0 +1,21 @@
+{
+  "name": "RegexValidator",
+  "author": {
+    "name": "Jeremiah",
+    "email": "jeremiah@zendesk.com",
+    "url": ""
+  },
+  "defaultLocale": "en",
+  "private": true,
+  "noTemplate": true,
+  "location": "ticket_sidebar",
+  "version": "1.0",
+  "frameworkVersion": "1.0",
+  "parameters": [
+    {
+      "name": "regex_field_id",
+      "type": "number",
+      "required": true
+    }
+  ]
+}
